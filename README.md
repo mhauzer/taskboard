@@ -1,5 +1,7 @@
 # TaskBoard
 
+Neat & elegant personal task management tool
+
 # Product definition documents
 
 * [Requirement Specification](requirements/index.md)
