@@ -9,4 +9,4 @@ Neat & elegant personal task management tool
 
 # Repositories
 
-* mhauzer/project-manager-api
+* [Project Manager API](https://github.com/mhauzer/project-manager-api)
