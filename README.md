@@ -6,3 +6,7 @@ Neat & elegant personal task management tool
 
 * [Requirement Specification](requirements/index.md)
 * [Technical Design](design/technical.md)
+
+# Repositories
+
+* mhauzer/project-manager-api
